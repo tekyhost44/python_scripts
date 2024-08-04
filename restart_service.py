@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+###  */30 * * * * python /usr/local/bin/restart.py
 from datetime import datetime
 import subprocess
 import sys
