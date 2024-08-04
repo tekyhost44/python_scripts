@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 ###  */30 * * * * python /usr/local/bin/restart.py
+### touch /var/log/tekyhost.log
 from datetime import datetime
 import subprocess
 import sys
